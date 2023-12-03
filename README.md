@@ -10,6 +10,11 @@
   <head>
     <meta charset="utf-8">
 
+
+# Multi-Layer Perceptron for Image Classification
+
+Welome to the **third** programming assignment of the Deep Learning course. 
+
 <p dir="auto"><strong>Please pay attention to these notes:</strong>
 <br></p>
 <ul dir="auto">
