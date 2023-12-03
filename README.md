@@ -56,19 +56,6 @@ So, now you have a little understanding of BERT in total, we need to know how to
 <li>Go to <a href="https://colab.research.google.com/" rel="nofollow">https://colab.research.google.com/</a>.</li>
 <li>Switch to Upload tab, choose assignment3.ipynb and click upload.</li>
 <li>Now You’re ready to go.</li>
-
-    <style>
-      .user-mention[href$="/MasoudShaker"] {
-        color: var(--color-user-mention-fg);
-        background-color: var(--color-user-mention-bg);
-        border-radius: 2px;
-        margin-left: -2px;
-        margin-right: -2px;
-        padding: 0 2px;
-      }
-    </style>
-
-
   </body>
 </html>
 
